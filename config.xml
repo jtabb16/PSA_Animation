@@ -1,0 +1,23 @@
+<!-- PSA Animation Configuration File -->
+<config>
+    <!-- Change the desired window size here. Ensure it is smaller than your monitor's resolution. -->
+    <!-- <resolution width='640' height='480'></resolution> -->
+    <!-- <resolution width='1280' height='720'></resolution> -->
+    <!-- <resolution width='1366' height='768'></resolution> -->
+    <!-- <resolution width='1920' height='1080'></resolution> -->
+    <resolution width='2560' height='1420'></resolution>
+    <!-- <resolution width='3840' height='2160'></resolution> -->
+
+    <!--  -->
+
+    <!-- Assuming you list ThetaA, QA, ThetaB, QB, etc. starting with light keys and ending with heavy keys -->
+    <!-- <stateMatrixInfo numLightKeys='1' numComp='6' numPhases='2'></stateMatrixInfo> -->
+    <stateMatrixInfo numLightKeys='1' numComp='2' numPhases='2'></stateMatrixInfo>
+
+    <!-- Which files do you want to use? -->
+    <!-- Assumes first datum in stateMatrix is for the bottom of the column -->
+    <!-- <datafiles stateMatrix='molesCol1' timeMatrix='time' volFlowMatrix='volFlowRateCol1'></datafiles> -->
+    <!-- <datafiles stateMatrix='dimensionalStateSolutions' timeMatrix='dimensionalTime' volFlowMatrix='dimensionalVolumetricFlowRate'></datafiles> -->
+    <datafiles stateMatrix='molesCol1' timeMatrix='time' volFlowMatrix='volFlowRateCol1'></datafiles>
+    
+</config>
