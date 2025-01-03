@@ -1,13 +1,13 @@
 # PSA Animation
 Main file is PSA_Animation.pde
 
-Dependencies:
-Using version 3.5.4 of Processing (Java framework)
-Using the Processing IDE
-Need G4P library for Sliders, Buttons, Text Fields, etc.
-Using G4P version 4.3.6
-To Install it, go to Sketch -> Import Library ... -> Add Library ... -> (Search for G4P) -> Install G4P by Peter Lager
-Using java util for data structures such as Lists, Sets, etc.
+Dependencies:  
+Using version 3.5.4 of Processing (Java framework)  
+Using the Processing IDE  
+Need G4P library for Sliders, Buttons, Text Fields, etc.  
+Using G4P version 4.3.6  
+To Install it, go to Sketch -> Import Library ... -> Add Library ... -> (Search for G4P) -> Install G4P by Peter Lager  
+Using java util for data structures such as Lists, Sets, etc.  
 
 -------------------------------------------------------------------------------------------------------------------------
 ## Animated Interactive Data Visualization Tool for Pressure Swing Adsorption Simulations
