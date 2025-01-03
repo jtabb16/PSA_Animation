@@ -1,11 +1,6 @@
 # PSA Animation
 
-Interactive, animated visualization tool for dynamic pressure swing adsorption (PSA) process simulation data.
-
----------------------------------------------------------------------------------------------------------------------
-Abstract for AICHE 2021 Poster
-
-Animated Interactive Data Visualization Tool for Pressure Swing Adsorption Simulations
+## Animated Interactive Data Visualization Tool for Pressure Swing Adsorption Simulations
 
 Jack B. Tabb[1], Taehun Kim[2], Joseph K. Scott[2] [1] Process Control & Data Solutions, Ramboll, Charlotte, NC [2] Chemical and Biomolecular Engineering, Georgia Institute of Technology
 
