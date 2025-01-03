@@ -2,7 +2,7 @@
 
 ## Animated Interactive Data Visualization Tool for Pressure Swing Adsorption Simulations
 
-Jack B. Tabb[1], Taehun Kim[2], Joseph K. Scott[2] [1] Process Control & Data Solutions, Ramboll, Charlotte, NC [2] Chemical and Biomolecular Engineering, Georgia Institute of Technology
+Jack B. Tabb[1], Taehun Kim[2] (@taehunk333), Joseph K. Scott[2] [1] Process Control & Data Solutions, Ramboll, Charlotte, NC [2] Chemical and Biomolecular Engineering, Georgia Institute of Technology
 
 This research poster presentation will showcase an interactive, animated visualization tool for pressure swing adsorption (PSA) process simulation data. The tool uses Processing, a Java-based development environment, and allows a side-by-side comparison of relative distribution of each species inside both gaseous and adsorbed phases over time. Furthermore, by running multiple instances of the tool, the user can simultaneously compare different simulation data. This new visualization paradigm enables practical applications such as adsorbent screening and the development of operation policies for PSA processes.
 
